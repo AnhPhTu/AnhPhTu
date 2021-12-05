@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-  Hi, I’m @AnhPhTu
+-  I’m interested in AI & ML fields.
+-  I’m currently learning AI & ML and Computer Vision.
+-  How to reach me : Contact me via my email "phamtuananh9a9@gmail.com".
