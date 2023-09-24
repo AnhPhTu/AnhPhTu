@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -  Hi, I’m @AnhPhTu
 -  I’m interested in AI & ML fields.
 -  I’m currently learning AI & ML and NLP.
+-  I have 1 year of work experience as a FE dev.
 -  How to reach me : Contact me via my email "phamtuananh9a9@gmail.com".
